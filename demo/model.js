@@ -1,7 +1,7 @@
 var json = '{
   "parent": "minecraft:block/block",
   "textures": {
-    "layer0": "musimod:textures/entity/centipede.png"
+    "layer0": "a.png"
   },
   "elements": [
     {
